@@ -36,290 +36,296 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The Royal Exchange Contayning sundry aphorismes of phylosophie, and golden principles of morrall and
+
+1. To the right honourable Sir Iohn Hart, Knight, Lorde Mayor of the Cittie of London: and to the right worshipfull Ma. Richard Gurney, and Ma. Stephen Soame, Sheriffes of the same Cittie. Robert Greene wysheth increase of honour and worshippe.
+
+1. To the right honourable Cittizens of the Cittie of London.
+
 #####Body#####
 
-1. Arte. Arte.
+1. CORNVCOPIA: OR The Royall Exchange.
 
-1. Animale. Creatures.
+    _ Arte. Arte.
 
-1. Abondanza. Aboundance.
+    _ Animale. Creatures.
 
-1. Affetto. Affect.
+    _ Abondanza. Aboundance.
 
-1. Abuzo. Abuse.
+    _ Affetto. Affect.
 
-1. Allegrezza. Myrth.
+    _ Abuzo. Abuse.
 
-1. Afflictione. Affliction.
+    _ Allegrezza. Myrth.
 
-1. Antonomazia. Agnomynation.
+    _ Afflictione. Affliction.
 
-1. Auidita. Greedinesse.
+    _ Antonomazia. Agnomynation.
 
-1. Amore. Loue.
+    _ Auidita. Greedinesse.
 
-1. Auaritia. Couetousnesse.
+    _ Amore. Loue.
 
-1. Allidini. Sloth.
+    _ Auaritia. Couetousnesse.
 
-1. Auocato. Aduocate.
+    _ Allidini. Sloth.
 
-1. Auditore. A hearer.
+    _ Auocato. Aduocate.
 
-1. Alfiero. A standard bearer.
+    _ Auditore. A hearer.
 
-1. Amicitia. Freendship.
+    _ Alfiero. A standard bearer.
 
-1. Beneficio. A benefite.
+    _ Amicitia. Freendship.
 
-1. Beni inutili. Things good, yet vnprofitable.
+    _ Beneficio. A benefite.
 
-1. Brenita. Breuitie.
+    _ Beni inutili. Things good, yet vnprofitable.
 
-1. Citta. A Cittie.
+    _ Brenita. Breuitie.
 
-1. Casa. A house.
+    _ Citta. A Cittie.
 
-1. Conoscere. Knowledge.
+    _ Casa. A house.
 
-1. Carita. Charitie.
+    _ Conoscere. Knowledge.
 
-1. Costanza. Constancie.
+    _ Carita. Charitie.
 
-1. Consigliare. A Counsellor.
+    _ Costanza. Constancie.
 
-1. Cortigiano. A Courtier.
+    _ Consigliare. A Counsellor.
 
-1. Capitano. A Captaine.
+    _ Cortigiano. A Courtier.
 
-1. Conditione humana. Humane condition.
+    _ Capitano. A Captaine.
 
-1. Comandare. To commaund.
+    _ Conditione humana. Humane condition.
 
-1. Con•inat•. A banished man.
+    _ Comandare. To commaund.
 
-1. Domand•re. To demaund.
+    _ Con•inat•. A banished man.
 
-1. Dottore. A Teacher.
+    _ Domand•re. To demaund.
 
-1. Donna. A woman.
+    _ Dottore. A Teacher.
 
-1. Digiuno. Fasting.
+    _ Donna. A woman.
 
-1. Dolore. Greefe.
+    _ Digiuno. Fasting.
 
-1. Dominio iniusto. Vniust rule.
+    _ Dolore. Greefe.
 
-1. Diletto. Delight.
+    _ Dominio iniusto. Vniust rule.
 
-1. Danari. Money.
+    _ Diletto. Delight.
 
-1. Difficulta. Difficultie.
+    _ Danari. Money.
 
-1. Dignita. Dignitie.
+    _ Difficulta. Difficultie.
 
-1. Desiderio. Desire.
+    _ Dignita. Dignitie.
 
-1. Dominare. To rule.
+    _ Desiderio. Desire.
 
-1. Danno sensa rimedio. Losse without remedie.
+    _ Dominare. To rule.
 
-1. Dono senza danno. A gift without losse.
+    _ Danno sensa rimedio. Losse without remedie.
 
-1. Delitto. Sinne or offence.
+    _ Dono senza danno. A gift without losse.
 
-1. Diuulgare. To manifest.
+    _ Delitto. Sinne or offence.
 
-1. Dio. God.
+    _ Diuulgare. To manifest.
 
-1. Eccellenza d' Huomini.
+    _ Dio. God.
 
-1. Felicita. Felicitie.
+    _ Eccellenza d' Huomini.
 
-1. Figliuolo. A sonne.
+    _ Felicita. Felicitie.
 
-1. Fede. Fayth.
+    _ Figliuolo. A sonne.
 
-1. Fanciullo. A childe.
+    _ Fede. Fayth.
 
-1. Forza. Force.
+    _ Fanciullo. A childe.
 
-1. Fatila. Labour or industry.
+    _ Forza. Force.
 
-1. Falondia. Eloquence.
+    _ Fatila. Labour or industry.
 
-1. Gouare ad al•rui. To pleasure others.
+    _ Falondia. Eloquence.
 
-1. Gola. Gluttony or the throat.
+    _ Gouare ad al•rui. To pleasure others.
 
-1. Gouernatore. A Gouernour.
+    _ Gola. Gluttony or the throat.
 
-1. Gnadaguo mentito. Gaine falsified.
+    _ Gouernatore. A Gouernour.
 
-1. Giudice. A Iudge.
+    _ Gnadaguo mentito. Gaine falsified.
 
-1. Grauezze del' huomo. Heauie things vnto man.
+    _ Giudice. A Iudge.
 
-1. Giouane. A young man.
+    _ Grauezze del' huomo. Heauie things vnto man.
 
-1. Giouanetto. An vnbridled youth.
+    _ Giouane. A young man.
 
-1. Guerra. Warre.
+    _ Giouanetto. An vnbridled youth.
 
-1. Huomo. A man.
+    _ Guerra. Warre.
 
-1. Ira. Anger.
+    _ Huomo. A man.
 
-1. Inuidia. Enuie.
+    _ Ira. Anger.
 
-1. Infermo. A sicke man.
+    _ Inuidia. Enuie.
 
-1. Ingratitudine. Ingratitude.
+    _ Infermo. A sicke man.
 
-1. Impossibilita.
+    _ Ingratitudine. Ingratitude.
 
-1. Infelicita. Infelicitie.
+    _ Impossibilita.
 
-1. Insatiabilita. Insatietie.
+    _ Infelicita. Infelicitie.
 
-1. Inurbanita. Inciuilitie.
+    _ Insatiabilita. Insatietie.
 
-1. Inimicitia. Enmitie.
+    _ Inurbanita. Inciuilitie.
 
-1. Ingan••. De•••te.
+    _ Inimicitia. Enmitie.
 
-1. Lussuria. Lecherie.
+    _ Ingan••. De•••te.
 
-1. Lymosina. Almes.
+    _ Lussuria. Lecherie.
 
-1. Leggi•rezz• apparente. Lightnes so seeming.
+    _ Lymosina. Almes.
 
-1. Lingua. A tongue.
+    _ Leggi•rezz• apparente. Lightnes so seeming.
 
-1. Liquore. Liquor or moysture.
+    _ Lingua. A tongue.
 
-1. Medico. A Physicion.
+    _ Liquore. Liquor or moysture.
 
-1. Martirio. Marterdome.
+    _ Medico. A Physicion.
 
-1. Me•cante. A Merchant.
+    _ Martirio. Marterdome.
 
-1. Marito. A Husband.
+    _ Me•cante. A Merchant.
 
-1. Moglie. A Wife.
+    _ Marito. A Husband.
 
-1. Morte. Death.
+    _ Moglie. A Wife.
 
-1. Mutabilita. Mutabilitie.
+    _ Morte. Death.
 
-1. Miracolo. A miracle.
+    _ Mutabilita. Mutabilitie.
 
-1. Negotio. Businesse.
+    _ Miracolo. A miracle.
 
-1. Nascondere. To hyde.
+    _ Negotio. Businesse.
 
-1. Natura. Nature.
+    _ Nascondere. To hyde.
 
-1. Ostinati••e. Obst•na••e.
+    _ Natura. Nature.
 
-1. Offesa senza Giou•mento. Offence without profit.
+    _ Ostinati••e. Obst•na••e.
 
-1. Occhio. The eye.
+    _ Offesa senza Giou•mento. Offence without profit.
 
-1. Opinione d' hanere. Opinion or conceit in hauing.
+    _ Occhio. The eye.
 
-1. Opere. Workes.
+    _ Opinione d' hanere. Opinion or conceit in hauing.
 
-1. Prudenza. Prudence.
+    _ Opere. Workes.
 
-1. Padre. A father.
+    _ Prudenza. Prudence.
 
-1. Prelato. A Prelate or Priest.
+    _ Padre. A father.
 
-1. Parlare. Speaking or speech.
+    _ Prelato. A Prelate or Priest.
 
-1. Pace. Peace.
+    _ Parlare. Speaking or speech.
 
-1. Penuria. Penurie or want.
+    _ Pace. Peace.
 
-1. Pericolo. Perrill.
+    _ Penuria. Penurie or want.
 
-1. Pouerta. Pouertie.
+    _ Pericolo. Perrill.
 
-1. Peccato. Sinne.
+    _ Pouerta. Pouertie.
 
-1. Pregato. Prayer or intreatie.
+    _ Peccato. Sinne.
 
-1. Presenti. Presents or gifts.
+    _ Pregato. Prayer or intreatie.
 
-1. Perfectione. Perfection.
+    _ Presenti. Presents or gifts.
 
-1. Penitente. A repentant.
+    _ Perfectione. Perfection.
 
-1. Prezzo inestimabile. Inestimable price.
+    _ Penitente. A repentant.
 
-1. Popolari. The Common people.
+    _ Prezzo inestimabile. Inestimable price.
 
-1. Re. A king.
+    _ Popolari. The Common people.
 
-1. Ringiouenire. To wexe young.
+    _ Re. A king.
 
-1. Religioso suddito. A religious subiect.
+    _ Ringiouenire. To wexe young.
 
-1. Rettore. A Ruler.
+    _ Religioso suddito. A religious subiect.
 
-1. Robba. Wealth.
+    _ Rettore. A Ruler.
 
-1. Superbia. Pryde.
+    _ Robba. Wealth.
 
-1. Speranza. Hope.
+    _ Superbia. Pryde.
 
-1. Seruire. To serue.
+    _ Speranza. Hope.
 
-1. Soldato. A Souldier.
+    _ Seruire. To serue.
 
-1. Sommessione. Submission•
+    _ Soldato. A Souldier.
 
-1. Stimolo all delitto. A prick vnto sinne.
+    _ Sommessione. Submission•
 
-1. Secretezza inutile. Secrecie vnprofitable.
+    _ Stimolo all delitto. A prick vnto sinne.
 
-1. Senso. Sence.
+    _ Secretezza inutile. Secrecie vnprofitable.
 
-1. Scienza. Knowledge.
+    _ Senso. Sence.
 
-1. Sauio. A wise man.
+    _ Scienza. Knowledge.
 
-1. Sanita. Health.
+    _ Sauio. A wise man.
 
-1. Stato. State.
+    _ Sanita. Health.
 
-1. Temperanza. Temperaunce.
+    _ Stato. State.
 
-1. Traditore. A Traytor.
+    _ Temperanza. Temperaunce.
 
-1. Terra. The earth.
+    _ Traditore. A Traytor.
 
-1. Tedio. Tediousnes.
+    _ Terra. The earth.
 
-1. Tyranne. A Tyrant.
+    _ Tedio. Tediousnes.
 
-1. Vtili•a. Profit.
+    _ Tyranne. A Tyrant.
 
-1. Vecchiezza. Old age.
+    _ Vtili•a. Profit.
 
-1. Vergogua. Shame.
+    _ Vecchiezza. Old age.
 
-1. Vdit•. Hearing.
+    _ Vergogua. Shame.
 
-1. Vitio. A vice.
+    _ Vdit•. Hearing.
 
-1. Verita. Trueth.
+    _ Vitio. A vice.
 
-1. Vita. Lyfe.
+    _ Verita. Trueth.
 
-1. Vso. Vse.
+    _ Vita. Lyfe.
+
+    _ Vso. Vse.
 
 **Types of content**
 
